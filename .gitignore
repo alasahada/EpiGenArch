@@ -1,0 +1,49 @@
+# Never commit individual-level or restricted data
+*.bed
+*.bim
+*.fam
+*.pgen
+*.pvar
+*.psam
+*.bgen
+*.sample
+*.vcf
+*.vcf.gz
+*.eigenvec
+*.sscore
+*.rds
+*.RData
+*.gz
+*.csv
+*.tsv
+.DS_Store
+
+# Input and generated-result directories used by these examples
+/data/
+/genotypes/
+/phenotypes/
+/samples/
+/weights/
+/external/
+/lead_snps/
+/gwas/
+/scores/
+/saige/
+/grm/
+/greml/
+/ldsc/
+/results/
+/outputs/
+
+# Local configuration, credentials, logs and session files
+.env
+.env.*
+*.pem
+*.key
+*.log
+.Rhistory
+.Ruserdata
+.Rproj.user/
+__pycache__/
+
+# Ignore rules are a convenience, not a substitute for checking staged files.
