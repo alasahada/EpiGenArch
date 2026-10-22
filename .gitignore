@@ -19,7 +19,7 @@
 .DS_Store
 
 # Input and generated-result directories used by these examples
-/data/
+/data/*
 /genotypes/
 /phenotypes/
 /samples/
@@ -47,3 +47,13 @@
 __pycache__/
 
 # Ignore rules are a convenience, not a substitute for checking staged files.
+
+# Synthetic figure examples intentionally included in the public repository
+!/data/README.md
+!/data/figure1a_example.csv
+!/data/figure1b_example.csv
+!/data/figure2_ddd_example.csv
+!/data/figure2_gel_example.csv
+!/data/figure3_example.csv
+!/data/figure4a_example.csv
+!/data/figure4b_example.csv

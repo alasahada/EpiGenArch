@@ -1,0 +1,4 @@
+group,n,estimate,se,p
+NDD-only,2800,0.00226,0.0064,0.7239947
+NDD-Epi unsolved,710,0.02218,0.00704,0.001629532
+NDD-Epi solved,810,0.00675,0.01241,0.5864991

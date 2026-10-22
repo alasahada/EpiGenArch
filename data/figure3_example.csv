@@ -1,0 +1,5 @@
+group,arm,status,n,x,x_se,y,y_se
+NDD-only,NDD-only,unsolved,4137,-0.004,0.018,-0.048,0.018
+NDD-only,NDD-only,solved,846,-0.041,0.034,0.015,0.034
+NDD-Epi,NDD-Epi,unsolved,1337,0.158,0.027,0.025,0.027
+NDD-Epi,NDD-Epi,solved,1014,0.039,0.031,0.041,0.031
